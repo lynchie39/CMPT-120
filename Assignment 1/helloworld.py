@@ -6,10 +6,15 @@
 
 def main():
 
+    print("Hello World!")
 
+    color = ("Pink")
 
+    print("My favorite color is " + color)
     
-    
+    bday = ("2 3 2005")
+
+    print("My birthday is: " + bday)
     
     
     
