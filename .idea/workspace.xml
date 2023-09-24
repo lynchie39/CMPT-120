@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CMPT-110.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CMPT-110.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 2/if_else_input_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2/if_else_input_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,5 +61,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
