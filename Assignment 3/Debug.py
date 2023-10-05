@@ -1,5 +1,6 @@
 def main():
 
+
     #Can you print out "Hello" 8 times? I gave you a tiny hint to start...
     for x in range(8):
         print("Hello")
@@ -32,7 +33,7 @@ def main():
         print(x)
 
      #aw i suck i made another infinite loop.. use that thing I taught you about to get out once it prints once... starts with a b... br....
-    found == False
+    found = False
     while found == False:
         print("i only printed once")
         break
@@ -56,3 +57,4 @@ def main():
 
 
 main()
+
