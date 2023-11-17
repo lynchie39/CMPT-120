@@ -8,6 +8,11 @@ You can also go much much simpler if you want to, I just want you guys to keep p
 and ofc, if you're stuck, don't hesitate to email
 '''
 def main():
-    intInput = int(input("Enter an int (but enter a string to see the error)"))
-    
+    while True:
+        try:
+            intInput = int(input("Enter an int (but enter a string to see the error)"))
+            print("yay you put an int ;)")
+            break
+        except ValueError:
+            print("Not a int ;(. Try again.")
 main()
